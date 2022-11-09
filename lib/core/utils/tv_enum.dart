@@ -1,0 +1,1 @@
+enum TvRequestState {loading,loaded,error}
